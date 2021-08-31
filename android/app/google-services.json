@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "528801406260",
+    "project_id": "easyship-3d024",
+    "storage_bucket": "easyship-3d024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528801406260:android:22193ef09ea7a5fbea5961",
+        "android_client_info": {
+          "package_name": "com.example.easyship"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528801406260-4ckcbelor39q2om2eiv1cnusm17bmg13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMVl7kT-n07MyrqWsNAjt_PA2IBaODioA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528801406260-4ckcbelor39q2om2eiv1cnusm17bmg13.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
